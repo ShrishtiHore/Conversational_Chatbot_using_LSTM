@@ -1,4 +1,4 @@
-# Conversational_Chatbot_using_LSTM
+# Conversational Chatbot using LSTM
 
 This project is to create conversational chatbot using Sequence to sequence LSTM models. Sequence to sequence learning is about training models to convert from one domain to sequences another domain.
 
@@ -49,7 +49,7 @@ This project is to create conversational chatbot using Sequence to sequence LSTM
 - Long Short-Term Memory (LSTM) networks are a type of recurrent neural network capable of learning order dependence in sequence prediction problems.
 - This is a behavior required in complex problem domains like machine translation, speech recognition, and more.
 - The success of LSTMs is in their claim to be one of the first implements to overcome the technical problems and deliver on the promise of recurrent neural networks.
-![Illustrations]()
+![Illustrations](https://github.com/ShrishtiHore/Conversational_Chatbot_using_LSTM/blob/master/Visualizations/ill.PNG)
 - LSTM network is comprised of different memory blocks called cells
 (the rectangles that we see in the image).  
 - There are two states that are being transferred to the next cell; the cell state and the hidden state. 
